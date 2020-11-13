@@ -1,6 +1,6 @@
 ### Aman Sharma
 
-A 19 year old Engineering Student with a passion for computer science and keen interest in programming languages, currently with Django for Web-backend. Founder of [Insanecodes](https://github.com/insanecodes/Python).
+A 19 year old Computer Science Student student, who loves to Code. Currently working with Django for Web-backend. Founder of [Insanecodes](https://github.com/insanecodes/Python).
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/AmanSharma703?color=1DA1F2&logo=twitter&style=for-the-badge)][twitter]
 
