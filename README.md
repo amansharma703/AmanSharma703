@@ -38,7 +38,7 @@ A 19 year old Computer Science Student student, who loves to Code. Currently wor
 
 <br>
 <br>
-<a href="https://github.com/iampawan">
+<a href="https://github.com/AmanSharma703">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmanSharma703&theme=dracula&hide_langs_below=1" />
 </a>
 <br>
