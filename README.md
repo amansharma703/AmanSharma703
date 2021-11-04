@@ -5,7 +5,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=AmanSharma703.AmanSharma703) <img src="https://img.shields.io/github/followers/AmanSharma703?label=Follow" style=" float:left, margin-right:10px" />
 
 
-A 19 year old Computer Science Student student, who loves to Code. Helping developers through [Insanecodes](https://www.instagram.com/insanecodes). I have a passion for learning and sharing my knowledge with others as publicly as possible. If you found value in something I have created, please feel free to give some ♥ on mail - (aman703jk@gmail.com). Feel free to reach out in case you want to just get in touch also.
+A 19 year old Computer Science Student, who loves to Code. Helping developers through [Insanecodes](https://www.instagram.com/insanecodes). I have a passion for learning and sharing my knowledge with others as publicly as possible. If you found value in something I have created, please feel free to give some ♥ on mail - (aman703jk@gmail.com). Feel free to reach out in case you want to just get in touch also.
 
 ## 📖 About me
 
