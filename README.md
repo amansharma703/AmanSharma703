@@ -5,41 +5,40 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=AmanSharma703.AmanSharma703) <img src="https://img.shields.io/github/followers/AmanSharma703?label=Follow" style=" float:left, margin-right:10px" />
 
 
-I'm Aman, a 4th-year undergrad Computer Science Student, who loves to Code. Helping developers through [Insanecodes](https://www.instagram.com/insanecodes). I have a passion for learning and sharing my knowledge with others as publicly as possible. If you found value in something I have created, please feel free to give some ♥ on mail - (aman703jk@gmail.com). Feel free to reach out in case you want to just get in touch also.
+I'm Aman, a recent Grad'23 in Computer Science, Specializing in MERN/PERN stack development, I lead the charge at [Insanecodes](https://www.instagram.com/insanecodes), where we're dedicated to crafting robust and scalable solutions. I have a passion for learning and sharing my knowledge with others as publicly as possible. If you found value in something I have created, please feel free to give some ♥ by mail - (aman703jk@gmail.com). Feel free to reach out in case you want to just get in touch.
 
 ## 📖 About me
 
-* 💻 I'm a MERN Stack Web Developer
-* 🎨 I'm a self-taught UI designer
-* 🎓 I'm currently learning Next.js
+* 💻 I specialize in MERN/PERN Stack Web Development
+* 🎨 A self-taught UI designer passionate about creating visually appealing interfaces
 * 📱 I'm looking to collaborate on Machine Learning
-* 🧑‍💻 I'm also open to exploring opportunities in DevOps 
+* 🧑‍💻 Open to exploring opportunities in DevOps to broaden my expertise
+* 🌐 Working on real-time video translation
 * 📫 How to reach me aman703jk@gmail.com
-
 
 
 ## Tech & Tools Preference
 
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
 <img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
+<img src="https://img.shields.io/badge/-NextJS-black?style=flat&logo=Next.js&logoColor=white">
 <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-GraphQL-e535ab?style=flat&logo=graphql&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-PostgresSQL-0064a5?style=flat&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/-Prisma-800000?style=flat&logo=prisma&logoColor=white">
 <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
 <img src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-Google%20Cloud%20Platform-4285F4?style=flat&logo=google%20cloud&logoColor=white">
-<img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
+<img src="http://img.shields.io/badge/-GCP-4285F4?style=flat&logo=google%20cloud&logoColor=white">
 <img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
-<img src="http://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white">
 
 ## Other Languages I know
-<img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/-JavaScript-F0DB4F?style=flat&logo=javascript&logoColor=ffffff"> <img src="https://img.shields.io/badge/-TypeScript-007acc?style=flat&logo=typescript&logoColor=ffffff"> 
+<img src="https://img.shields.io/badge/-C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/-JavaScript-F0DB4F?style=flat&logo=javascript&logoColor=ffffff"> <img src="https://img.shields.io/badge/-TypeScript-007acc?style=flat&logo=typescript&logoColor=ffffff"> 
 
 ## Some of the technologies I've worked with:
 
 <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Linux-4285F4?style=flat&logo=linux&logoColor=f1f6f9"> <img src="https://img.shields.io/badge/-Gitlab-FC6D27?style=flat&logo=gitlab&logoColor=ffffff">
+ <img src="https://img.shields.io/badge/-Docker-0db7ed?style=flat&logo=docker&logoColor=ffffff">
 
 ## 🙋‍♂️ Connect with me:
 
